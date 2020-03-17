@@ -10,24 +10,25 @@
 }
 
 .card-title {
-    margin-left: 10px;
     margin-top: 25px;
-    color: black;
-    text-decoration: underline;
+    margin-left: 10px;
     font-size: 36px;
+    text-decoration: underline;
+    color: black;
 }
 
 .form-full {
     margin-left: 10px;
     margin-bottom: 20px;
+    font-weight: bold;
 }
 
 .footer {
-    border-top: darkgray solid 10px;
-    color: white;
+    padding: 27.5px;
     margin-top: 300px;
     height: 75px;
-    text-align: center;
-    padding: 27.5px;
     font-size: 10px;
+    text-align: center;
+    color: white;
+    border-top: darkgray solid 10px;
 }
