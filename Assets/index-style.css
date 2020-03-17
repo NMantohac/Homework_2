@@ -17,9 +17,13 @@
     color: black;
 }
 
+.row {
+    margin-right: 25px;
+}
+
 #selfie-image {
-    margin-left: 25px;
     margin-top: 10px;
+    margin-left: 10px;
     margin-bottom: 10px;
     width: 150px;
     height: 150px;
@@ -27,10 +31,11 @@
 
 .card-text {
     margin-top: 10px;
+    padding: 20px;
 }
 
 .card-bottom-text {
-    margin-left: 25px;
+    margin-left: 10px;
 }
 
 .footer {
@@ -41,4 +46,44 @@
     text-align: center;
     color: white;
     border-top: darkgray solid 10px;
+}
+
+@media screen and (max-width: 767px) {   
+    .card-title {
+       margin-left: 165px;
+    }
+
+    #selfie-image {
+       margin-left: 120px;
+       margin-bottom: -10px;
+       height: 250px;
+       width: 250px;
+    }
+
+    .card-text {
+       margin-left: 10px;
+    }
+
+    .card-bottom-text {
+        margin-top: -20px;
+    }
+}
+
+
+@media screen and (max-width: 576px) {
+    .container {
+        width: 20%;
+    }
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 362px) {
+    .navbar-toggler{
+        margin: 0 auto;
+    }
 }

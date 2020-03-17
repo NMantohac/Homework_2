@@ -32,3 +32,9 @@
     color: white;
     border-top: darkgray solid 10px;
 }
+
+@media screen and (max-width: 362px) {
+    .navbar-toggler{
+        margin: 0 auto;
+    }
+}
