@@ -1,12 +1,13 @@
 .navbar-brand {
     padding: 20px;
-    margin-left: 25px;
+    margin-left: 10px;
 }
 
 .card {
     margin-top: 30px;
     margin-left: 40px;
     background-color: darkgray;
+    width: 50%;
 }
 
 .card-title {

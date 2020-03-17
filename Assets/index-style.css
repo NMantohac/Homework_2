@@ -1,12 +1,13 @@
 .navbar-brand {
     padding: 20px;
-    margin-left: 25px;
+    margin-left: 10px;
 }
 
 .card {
     margin-top: 30px;
-    margin-left: 40px;
+    margin-left: 10px;
     background-color: darkgray;
+    width: 65%;
 }
 
 .card-title {
@@ -21,21 +22,21 @@
     margin-right: 25px;
 }
 
-#selfie-image {
+img {
     margin-top: 10px;
-    margin-left: 10px;
+    margin-left: 15px;
     margin-bottom: 10px;
     width: 150px;
-    height: 150px;
+    height: 125px;
 }
 
 .card-text {
-    margin-top: 10px;
+    margin-top: 15px;
     padding: 20px;
 }
 
 .card-bottom-text {
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 .footer {
@@ -48,42 +49,41 @@
     border-top: darkgray solid 10px;
 }
 
-@media screen and (max-width: 767px) {   
+@media screen and (max-width: 992px) {
+
     .card-title {
-       margin-left: 165px;
+        text-align: center;
+        margin-right: 25px;
     }
 
-    #selfie-image {
-       margin-left: 120px;
-       margin-bottom: -10px;
-       height: 250px;
-       width: 250px;
+    img {
+        height: 300px;
+        width: 300px;
+        margin-left: 20%;
+        margin-bottom: -20px;
     }
 
     .card-text {
-       margin-left: 10px;
-    }
-
-    .card-bottom-text {
-        margin-top: -20px;
+        margin-left: 12px;
+        margin-bottom: -20px;
     }
 }
 
+@media screen and (max-width: 768px) {   
 
+    img {
+        margin-left: 13%;
+    }
+}
+ 
 @media screen and (max-width: 576px) {
-    .container {
-        width: 20%;
+
+    .card-title {
+        margin-left: 25px;
     }
-}
 
-
-
-
-
-
-
-@media screen and (max-width: 362px) {
-    .navbar-toggler{
-        margin: 0 auto;
+    img {
+        margin-left: 17.5px;
     }
+
 }
