@@ -5,9 +5,9 @@
 
 .card {
     margin-top: 30px;
-    margin-left: 40px;
+    margin-left: 25px;
     background-color: darkgray;
-    width: 50%;
+    width: 60%;
 }
 
 .card-title {
@@ -32,10 +32,4 @@
     text-align: center;
     color: white;
     border-top: darkgray solid 10px;
-}
-
-@media screen and (max-width: 362px) {
-    .navbar-toggler{
-        margin: 0 auto;
-    }
 }

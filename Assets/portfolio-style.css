@@ -7,7 +7,7 @@
     margin-top: 30px;
     margin-left: 25px;
     background-color: darkgray;
-    width: 70%;
+    width: 80%;
 }
 
 .card-title {
@@ -20,8 +20,8 @@
 
 img {
     position: relative;
+    margin-left: 75px;
     margin-bottom: 30px;
-    margin-left: 30px;
     height: 250px;
     width: 250px;
 }
@@ -30,9 +30,8 @@ img {
     position: absolute;
     bottom: 0;
     padding: 10px;
-    margin-left: 30px;
+    margin-left: 75px;
     margin-bottom: 30px;
-    width: 250px;
     text-align: center;
     font-weight: bold;
     background: lightgray
@@ -49,8 +48,15 @@ img {
 }
 
 @media screen and (max-width: 576px) {
-    .img-text {
-        position: absolute;
-        bottom: 0;
-    }
+   img {
+        padding-right: 40px;
+        margin-left: 15px;
+   }
+
+   .img-text {
+        padding-right: 40px;
+        margin-left: 15px;
+
+   }
+
 }
