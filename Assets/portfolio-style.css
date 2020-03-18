@@ -5,9 +5,9 @@
 
 .card {
     margin-top: 30px;
-    margin-left: 40px;
+    margin-left: 25px;
     background-color: darkgray;
-    width: 55%;
+    width: 70%;
 }
 
 .card-title {
@@ -18,15 +18,10 @@
     color: black;
 }
 
-.row {
-    margin-bottom: 30px;
-    text-align: center;
-    font-weight: bold;
-    color: black;
-}
-
 img {
     position: relative;
+    margin-bottom: 30px;
+    margin-left: 30px;
     height: 250px;
     width: 250px;
 }
@@ -35,8 +30,11 @@ img {
     position: absolute;
     bottom: 0;
     padding: 10px;
-    margin-left: 47.5px;
+    margin-left: 30px;
+    margin-bottom: 30px;
     width: 250px;
+    text-align: center;
+    font-weight: bold;
     background: lightgray
 }
 
@@ -50,8 +48,9 @@ img {
     border-top: darkgray solid 10px;
 }
 
-@media screen and (max-width: 362px) {
-    .navbar-toggler{
-        margin: 0 auto;
+@media screen and (max-width: 576px) {
+    .img-text {
+        position: absolute;
+        bottom: 0;
     }
 }
