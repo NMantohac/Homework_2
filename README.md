@@ -21,6 +21,7 @@ Description:
       trouble understanding why the card and images were not responsive, as well as spending too much time figuring out Media Queries.
   - I learned where I went wrong through searching around the Internet for a bit and watching a youtube tutorial video, so I can say
       that I'm confident in using the Grid System and Media Queries for a responsive website layout.
+  - The only thing that I was still unable to do, despite searching the Internet and typing out different code for 2-3 hours, was making       the image text within an image be responsive to the image, and not the card for my portfolio page.
       
   Screenshot(s):
   - About Me: https://puu.sh/FlR8h/14404ddde0.png
