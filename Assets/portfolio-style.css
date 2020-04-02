@@ -20,7 +20,7 @@
 
 img {
     position: relative;
-    margin-left: 75px;
+    margin-left: 95px;
     margin-bottom: 30px;
     height: 250px;
     width: 250px;
@@ -30,7 +30,7 @@ img {
     position: absolute;
     bottom: 0;
     padding: 10px;
-    margin-left: 75px;
+    margin-left: 95px;
     margin-bottom: 30px;
     text-align: center;
     font-weight: bold;
