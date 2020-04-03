@@ -6,7 +6,7 @@ URL Links:
   
 Description:
   - A simple 'About Me' website layout that incldues semantic HTML tags and a navbar that contains the links to   
-    'About/Portfolio/Contact' pages. The website is also a responsive layout for mobile screens, which means that the elements are  
+    'About/Portfolio/Contact' pages. The website is also a responsive layout for mobile screens, which means that the elements are
     nicely fit in different screens sizes. Update: The portolio page contains images of the homeworks I've done, and when clicked, it 
     would open a link in a new tab of that homework's github repo.
   - The website is done through HTML and CSS code in Visual Studio Code, and utilizing Bootstrap with its components and utilities.
