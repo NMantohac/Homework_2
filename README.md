@@ -30,7 +30,7 @@ Description:
   ![About Me Page:](https://puu.sh/FssRV/05cbb4bf96.png)
   
   Portfolio Page (50% Zoom Out)
-  ![Portfolio Page:](https://puu.sh/FssSA/5f82cc040c.png)
+  ![Portfolio Page:](https://puu.sh/FxfaE/f3d326e56e.png)
   
   Contact Page (90% Zoom Out)
   ![Contact Page:](https://puu.sh/FssTC/a233bc3f8f.png)
