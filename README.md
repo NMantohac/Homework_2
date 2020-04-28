@@ -1,8 +1,8 @@
 # Homework_2
 
 URL Links:
-  1) https://github.com/NMantohac/Homework_2
-  2) https://nmantohac.github.io/Homework_2/
+  1) https://github.com/NMantohac/Homework_2_Responsive_Portfolio
+  2) https://nmantohac.github.io/Homework_2_Responsive_Portfolio/
   
 Description:
   - A simple 'About Me' website layout that incldues semantic HTML tags and a navbar that contains the links to   
